@@ -95,7 +95,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 http://103.30.1.14:8080/hls/live.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Indonesia", U CHANNEL
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Indonesia", U CHANNEL
 http://rr2.dens.tv/s/s41/index.m3u8
 
 
@@ -228,7 +228,7 @@ https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
 https://h1.intechmedia.net/intech/ch17.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.radiokitafm.com/wp-content/uploads/Radio-Kita-Tv-Logo.jpg" group-title="TV Islam", RADIO KITA TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="TV Islam", RADIO KITA TV
 https://h1.intechmedia.net/intech/ch16.m3u8
 
 
@@ -236,7 +236,7 @@ https://h1.intechmedia.net/intech/ch16.m3u8
 https://h1.intechmedia.net/intech/ch3.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.binamadani.org/putra/wp-content/uploads/2016/01/logo-utama.png" group-title="TV Islam", BINA MADANI TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="TV Islam", BINA MADANI TV
 https://h1.intechmedia.net/intech/ch20.m3u8
 
 
@@ -253,6 +253,10 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 
 
 ########################################################### MOVIE ###########################################################
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Entertaiment", K+ 
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Movie", KIX 
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
@@ -287,7 +291,7 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 http://rr1.dens.tv/h/h15/index.m3u8
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png",AMERICAN HORRORS
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158",AMERICAN HORRORS
 http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 
 ########################################################### CARTOON ###########################################################
@@ -297,11 +301,11 @@ http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Cartoon", TOONMAX
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Cartoon", TOONMAX
 http://rr2.dens.tv/s/s50/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="Cartoon",NICKELODEON
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Cartoon",NICKELODEON
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 ########################################################### ENTERTAIMENT ##########################################################
@@ -311,8 +315,7 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Entertaiment", K+ 
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
  
  
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Entertaiment", CCTV4
@@ -325,11 +328,7 @@ http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="China", Phoenix Chinese
-http://rr.dens.tv/h/h157/index2.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="China", Phoenix
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="China", Phoenix 
 http://rr2.dens.tv/s/s21/index.m3u8
 
 ########################################################### KNOWLEDGE ###########################################################
@@ -348,7 +347,7 @@ http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Other", TBN
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Other", TBN
 http://rr2.dens.tv/s/s39/index.m3u8
 
 
