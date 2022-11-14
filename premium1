@@ -354,13 +354,13 @@ http://rr2.dens.tv/s/s39/index.m3u8
 ########################################################### ITALY ###################################################
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Italy", RAI Italia
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Italy", RAI Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 
 
 ########################################################### TURKEY ###################################################
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Turkey", TRT WORLD
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Turkey", TRT WORLD
 http://rr.dens.tv/h/h156/index2.m3u8
 
 
@@ -368,11 +368,11 @@ http://rr.dens.tv/h/h156/index2.m3u8
 ########################################################### UKRAINA ###########################################################
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Ukraina", UA
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Ukraina", UA
 http://rr.dens.tv/h/h101/index2.m3u8
 
 
 ########################################################### INDIA ###########################################################
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="India" group-title="Berita", WION
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="India" group-title="Berita", WION
 http://rr.dens.tv/h/h91/index2.m3u8
