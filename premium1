@@ -61,7 +61,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="Indonesia",BERITA SATU WORLD
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="BERITA",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 
@@ -169,65 +169,65 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 
 ########################################################### MOVIE ###########################################################
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", KIX 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", KIX 
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 http://210.210.155.37:80/dr9445/h/h07/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", TVN MOVIES 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", TVN MOVIES 
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", BLUE ANT EXTREME 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", BLUE ANT EXTREME 
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", CINEMA WORLD 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", CINEMA WORLD 
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", ZEE BIOSKOP 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", ZEE BIOSKOP 
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", THRILL 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", THRILL 
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Movie", Rock Extrem
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Movie", Rock Extrem
 http://rr1.dens.tv/h/h15/index.m3u8
 
 ########################################################### CARTOON ###########################################################
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Cartoon", ANIPLUS 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Cartoon", ANIPLUS 
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
 
 ########################################################### ENTERTAIMENT ##########################################################
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Entertaiment", TVN
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Entertaiment", TVN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Entertaiment", K+ 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Entertaiment", K+ 
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
  
  
- #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Entertaiment", CCTV4
+ #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Entertaiment", CCTV4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
 
 ########################################################### OTHER ###########################################################
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Other", NHK WORLD JAPAN 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Other", NHK WORLD JAPAN 
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Other", EGG TV 
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345715_ico.png?ts=1668412463" group-title="Other", EGG TV 
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
