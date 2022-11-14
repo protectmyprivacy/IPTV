@@ -3,6 +3,7 @@ tv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.githu
 
 ########################################################### INDONESIA ###########################################################
 
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="Indonesia", RCTI
 
 
@@ -39,15 +40,9 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497983_ico.png?ts=1654728408" group-title="Indonesia", TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-http://rr2.dens.tv/s/s105/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
-
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185215_ico.png?ts=1654801697" group-title="Indonesia", KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515910_ico.png?ts=1654729037" group-title="Indonesia", RTV
+http://rr1.dens.tv/h/h10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498538_ico.png?ts=1654801757" group-title="Indonesia", CNN INDONESIA
@@ -60,6 +55,22 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185215_ico.png?ts=1654801697" group-title="Indonesia", KOMPAS TV
+http://rr2.dens.tv/s/s104/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185110_ico.png?ts=1654801963" group-title="Indonesia", METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+http://rr.dens.tv/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8.
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497983_ico.png?ts=1654728408" group-title="Indonesia", TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+http://rr2.dens.tv/s/s105/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
+
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="Indonesia", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
@@ -68,10 +79,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185110_ico.png?ts=1654801963" group-title="Indonesia", METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-http://rr.dens.tv/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Indonesia", DAAI TV
+http://rr2.dens.tv/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Indonesia", USEE PRIME
@@ -86,13 +96,21 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515910_ico.png?ts=1654729037" group-title="Indonesia", RTV
-http://rr1.dens.tv/h/h10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia",MAGNA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNkGFjI.png" group-title="Indonesia", TV KU
-http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg", THE INDONESIA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554559_ico.png?ts=1654802199" group-title="Indonesia", JAK TV
+http://rr3.dens.tv/s/s13/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Jak_tv
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19741080_ico.png?ts=1654802160" group-title="Indonesia", JAKARTA GLOBE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Indonesia", U CHANNEL
@@ -105,23 +123,6 @@ http://rr2.dens.tv/s/s41/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrj
 
 #EXTINF:-1 tv-name="Elshinta tv" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Indonesia", ELSHINTA TV
 http://rr2.dens.tv/s/s10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
-
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Indonesia", RJODJA TV
-http://rr2.dens.tv/s/s14/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
-
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19741080_ico.png?ts=1654802160" group-title="Indonesia", JAKARTA GLOBE
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554559_ico.png?ts=1654802199" group-title="Indonesia", JAK TV
-http://rr3.dens.tv/s/s13/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Jak_tv
-
-
-#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Indonesia", DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
-http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
 
 #EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="Indonesia", TVRI
@@ -156,18 +157,6 @@ http://122.248.43.138:1935/ch23/myStream/live.m3u8
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztA43rdUI5A/sddefault_live.jpg" group-title="Indonesia", DIGIONE MAXSTREAM
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia",MAGNA TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
-
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg", THE INDONESIA CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Indonesia", JAWA POS TV
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
 
@@ -180,8 +169,12 @@ http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 http://122.248.43.138:1935/ch7/myStream/live.m3u8
 
 
-
 ########################################################### TV ISLAM ###################################################
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNkGFjI.png" group-title="TV Islam", TV KU
+http://103.30.1.14:8080/hls/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam", MAKKAH TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
@@ -254,6 +247,7 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 
 ########################################################### MOVIE ###########################################################
 
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Entertaiment", K+ 
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
@@ -294,6 +288,7 @@ http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158",AMERICAN HORRORS
 http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 
+
 ########################################################### CARTOON ###########################################################
 
 
@@ -308,6 +303,7 @@ http://rr2.dens.tv/s/s50/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Cartoon",NICKELODEON
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
+
 ########################################################### ENTERTAIMENT ##########################################################
 
 
@@ -315,14 +311,12 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 
 
-
- 
- 
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Entertaiment", CCTV4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
 
 ########################################################### CHINA ###########################################################
+
 
 #EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="China", Xing Kong
 http://rr3.dens.tv/s/s94/index2.m3u8
@@ -331,10 +325,16 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="China", Phoenix 
 http://rr2.dens.tv/s/s21/index.m3u8
 
+
 ########################################################### KNOWLEDGE ###########################################################
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/51/1004/png-transparent-ames-research-center-nasa-tv-nasa-insignia-project-gemini-nasa-miscellaneous-blue-logo.png" group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Knowledge",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 
 ########################################################### OTHER ###########################################################
 
@@ -351,28 +351,8 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 http://rr2.dens.tv/s/s39/index.m3u8
 
 
-########################################################### ITALY ###################################################
-
-
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Italy", RAI Italia
-http://rr3.dens.tv/s/s63/index2.m3u8
-
-
-########################################################### TURKEY ###################################################
-
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Turkey", TRT WORLD
-http://rr.dens.tv/h/h156/index2.m3u8
 
 
 
-########################################################### UKRAINA ###########################################################
 
 
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Ukraina", UA
-http://rr.dens.tv/h/h101/index2.m3u8
-
-
-########################################################### INDIA ###########################################################
-
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="India" group-title="Berita", WION
-http://rr.dens.tv/h/h91/index2.m3u8
