@@ -3,8 +3,6 @@ tv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.githu
 
 ########################################################### INDONESIA ###########################################################
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="Indonesia",RCTI.
-http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="Indonesia",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
