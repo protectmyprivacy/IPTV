@@ -4,9 +4,6 @@ tv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.githu
 ########################################################### INDONESIA ###########################################################
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="Indonesia", RCTI
-
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="Indonesia", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 http://rr2.dens.tv/s/s03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
@@ -339,16 +336,7 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 ########################################################### OTHER ###########################################################
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Other", NHK WORLD JAPAN 
-http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Other", EGG TV 
-http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2345728_ico.png?ts=1668413158" group-title="Other", TBN
-http://rr2.dens.tv/s/s39/index.m3u8
 
 
 
